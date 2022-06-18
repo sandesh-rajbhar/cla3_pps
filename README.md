@@ -17,25 +17,3 @@ PURPOSE OF LIBRARY MANAGEMENT SOFTWARE:
 
 ● The system is handy and easy to use for both officials and students.We can also enhance this system with more features such as an entry record, and to store e-books. Overall,the system can be modified as per needs of the institution.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Packages
-No packages published
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
